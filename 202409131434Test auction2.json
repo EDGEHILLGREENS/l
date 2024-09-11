@@ -1,0 +1,16 @@
+{
+  "ProductID": "202409131434Test auction2",
+  "ProductTitle": "Test auction2",
+  "ProductDescription": "This is to test the payment system",
+  "ProductVideo": "https://streamable.com/wgg15v",
+  "StartingAmount": 100,
+  "Seller": "20240910075235Gerald Green",
+  "Expiry": "202409131434",
+  "Tags": [
+    "test%20auction2",
+    "202409131434test%20auction2",
+    "livestock",
+    "south%20africa",
+    "test"
+  ]
+}
