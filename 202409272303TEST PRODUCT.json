@@ -1,0 +1,15 @@
+{
+  "ProductID": "202409272303TEST PRODUCT",
+  "ProductTitle": "TEST PRODUCT",
+  "ProductDescription": "This is for testing ProductIDs",
+  "ProductVideo": "https://streamable.com/qp8e29",
+  "StartingAmount": 100,
+  "Seller": "20240821211058Tester two",
+  "Expiry": "202409272303",
+  "Tags": [
+    "test%20product",
+    "202409272303test%20product",
+    "livestock",
+    "south%20africa"
+  ]
+}
