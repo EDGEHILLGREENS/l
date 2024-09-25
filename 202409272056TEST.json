@@ -1,0 +1,14 @@
+{
+  "ProductID": "202409272056TEST",
+  "ProductTitle": "TEST",
+  "ProductDescription": "This a test",
+  "ProductVideo": "https://streamable.com/qp8e29",
+  "StartingAmount": 1000,
+  "Seller": "20240811124711Thomas de beer",
+  "Expiry": "202409272056",
+  "Tags": [
+    "test",
+    "202409272056test",
+    "livestock"
+  ]
+}
