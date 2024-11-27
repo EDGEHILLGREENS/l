@@ -1,0 +1,15 @@
+{
+  "ProductID": "202411291127test product",
+  "ProductTitle": "test product",
+  "ProductDescription": "for testing purposes",
+  "ProductVideo": "https://streamable.com/31edzt",
+  "StartingAmount": 1111.11,
+  "Seller": "20240901080153Thomas de Beer",
+  "Expiry": "202411291127",
+  "Tags": [
+    "test%20product",
+    "202411291127test%20product",
+    "livestock",
+    "south%20africa"
+  ]
+}
