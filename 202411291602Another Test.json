@@ -1,0 +1,15 @@
+{
+  "ProductID": "202411291602Another Test",
+  "ProductTitle": "Another Test",
+  "ProductDescription": "This is for demonstration purposes.",
+  "ProductVideo": "https://streamable.com/kqsqfd",
+  "StartingAmount": 111.11,
+  "Seller": "20241031121119Thomas",
+  "Expiry": "202411291602",
+  "Tags": [
+    "another%20test",
+    "202411291602another%20test",
+    "livestock",
+    "cows"
+  ]
+}
