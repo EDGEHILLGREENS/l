@@ -1,0 +1,17 @@
+{
+  "ProductID": "202412012006Test2",
+  "ProductTitle": "Test2",
+  "ProductDescription": "This is for demonstration purposes.",
+  "ProductVideo": "https://streamable.com/eb6vd4",
+  "StartingAmount": 2222.22,
+  "Seller": "20241031121119Thomas",
+  "Expiry": "202412012006",
+  "Tags": [
+    "test2",
+    "202412012006test2",
+    "livestock",
+    "eastern%20cape",
+    "south%20africa",
+    "test"
+  ]
+}
