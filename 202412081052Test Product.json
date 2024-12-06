@@ -1,0 +1,17 @@
+{
+  "ProductID": "202412081052Test Product",
+  "ProductTitle": "Test Product",
+  "ProductDescription": "Test description ",
+  "ProductVideo": "https://streamable.com/nahyxn",
+  "StartingAmount": 3333.33,
+  "Seller": "20241031121119Thomas",
+  "Expiry": "202412081052",
+  "Tags": [
+    "test%20product",
+    "202412081052test%20product",
+    "livestock",
+    "south%20africa",
+    "eastern%20cape",
+    "test"
+  ]
+}
