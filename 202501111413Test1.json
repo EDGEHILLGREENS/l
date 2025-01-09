@@ -1,0 +1,16 @@
+{
+  "ProductID": "202501111413Test1",
+  "ProductTitle": "Test1",
+  "ProductDescription": "This is just a test",
+  "ProductVideo": "https://streamable.com/w6yi4i",
+  "StartingAmount": 1111.11,
+  "Seller": "20250109141024iOS tester",
+  "Expiry": "202501111413",
+  "Tags": [
+    "test1",
+    "202501111413test1",
+    "livestock",
+    "south%20africa",
+    "eastern%20cape"
+  ]
+}
